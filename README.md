@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://github.com/user-attachments/assets/5d5bfbb2-00c2-49e6-9ebb-3283c91fdb3a
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -57,3 +59,4 @@ After installing everything if you installed VS Code open the project inside of 
 - Flutter
 
 After installing reload VS Code. After that if you installed Android Studio create Emulator and run it. Inside of the VS Code on the bottom bar to the right there will an option to select emulator for the project select your Emulator that is running. After that type `flutter run` inside of the terminal and it will automatically start the project on it after it is done installing all of the necessary plugins and packages. If you do not have an emulator you can run flutter project inside of the browser just type `flutter run` and it will give you avalible emulators for example `2. Chrome` just press 2 and it will run the project inside of the Google Chrome.
+
